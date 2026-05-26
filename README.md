@@ -2,6 +2,8 @@
 
 [Mixtapes](https://mixtapes.site) is a collaborative music curation app that lets communities create and share themed mixtapes with friends, colleagues, and family. Each community gets their own instance at `yourname.mixtapes.site`.
 
+> **Latest release: v2.12.1** - GitHub Issues integration for feedback tracking. See [releases/2.12.1](releases/2.12.1) for details.
+
 This repository is the public face of the project. The application source code is developed privately, but this repo exists to:
 
 - **Track bugs and issues** - if something is broken, report it here
@@ -24,6 +26,8 @@ Open an issue with the `enhancement` label. Describe the problem you are trying 
 ## Releases
 
 New versions of Mixtapes are tagged in this repository with release notes describing what changed. You can watch this repo to be notified of new releases.
+
+Browse the full [release history](releases/) for a breakdown of every version.
 
 ## Links
 
